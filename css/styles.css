@@ -10982,17 +10982,17 @@ section.cta:before {
   display: none;
 }
 .features-device-mockup .circle .gradient-start-color {
-  stop-color: #2937f0;
+  stop-color: #000;
 }
 .features-device-mockup .circle .gradient-end-color {
-  stop-color: #9f1ae2;
+  stop-color: #871b1b;
 }
 .features-device-mockup .shape-1 {
   position: absolute;
   height: 1rem;
   width: 1rem;
   transform: rotate(10deg);
-  fill: #2937f0;
+  fill: #d92e2e;
   top: 15%;
   right: 10%;
 }
@@ -11000,7 +11000,7 @@ section.cta:before {
   position: absolute;
   height: 0.75rem;
   width: 0.75rem;
-  fill: #2937f0;
+  fill: #d92e2e;
   bottom: 15%;
   left: 10%;
 }
@@ -11094,17 +11094,17 @@ footer a:hover, footer a:active, footer a:focus {
   display: none;
 }
 .masthead .masthead-device-mockup .circle .gradient-start-color {
-  stop-color: #2937f0;
+  stop-color: #000;
 }
 .masthead .masthead-device-mockup .circle .gradient-end-color {
-  stop-color: #9f1ae2;
+  stop-color: #871818;
 }
 .masthead .masthead-device-mockup .shape-1 {
   position: absolute;
   height: 1rem;
   width: 1rem;
   transform: rotate(-10deg);
-  fill: #2937f0;
+  fill: #fd2a2a;
   bottom: 15%;
   left: 10%;
 }
@@ -11112,7 +11112,7 @@ footer a:hover, footer a:active, footer a:focus {
   position: absolute;
   height: 0.75rem;
   width: 0.75rem;
-  fill: #2937f0;
+  fill: #fd2a2a;
   top: 15%;
   right: 10%;
 }
